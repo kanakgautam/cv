@@ -27,6 +27,7 @@ hr{
 .my-description{
     margin: auto 500px auto 500px;
     line-height:2;
+    text-align: left;
 }
 .top-container {
     background-color: #fff5eb;
